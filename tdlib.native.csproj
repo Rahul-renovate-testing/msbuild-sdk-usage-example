@@ -4,5 +4,5 @@
         <NuspecFile>$(MSBuildThisFileDirectory)\tdlib.native.nuspec</NuspecFile>
         <NuspecProperties>version=$(PackageVersion)</NuspecProperties>
     </PropertyGroup>
-<Import Project="Sdk.props" Sdk="Microsoft.Build.NoTargets" Version="3.4.0" />
+<Import Project="Sdk.props" Sdk="Microsoft.Build.NoTargets" Version="3.7.56" />
 </Project>
